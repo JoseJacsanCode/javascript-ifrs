@@ -27,6 +27,15 @@
 //     let y = 20;
 // }
 
-var a;
-console.log("O valor de a é: " + a) // saída "O valor de a é undefined"
-console.log("O valor de b é: " + b) // executa uma exception de erro de referência (ReferenceError)
+// var a;
+// console.log("O valor de a é: " + a) // saída "O valor de a é undefined"
+// console.log("O valor de b é: " + b) // executa uma exception de erro de referência (ReferenceError)
+
+// function exemplo() {
+//     if(true) {
+//         let x = 5
+//     }
+//     console.log(x)
+// }
+
+// exemplo()
