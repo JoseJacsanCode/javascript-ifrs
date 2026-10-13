@@ -15,4 +15,3 @@ const quadrado = x => x * x
 //     const resultado = a + b
 //     return resultado
 // }
-
